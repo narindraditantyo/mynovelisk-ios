@@ -13,6 +13,9 @@
 		112D0B5F25392F8400F75C7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 112D0B5D25392F8400F75C7E /* Main.storyboard */; };
 		112D0B6125392F8800F75C7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 112D0B6025392F8800F75C7E /* Assets.xcassets */; };
 		112D0B6425392F8800F75C7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 112D0B6225392F8800F75C7E /* LaunchScreen.storyboard */; };
+		112D0B6C2539A75300F75C7E /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112D0B6B2539A75300F75C7E /* HomeViewController.swift */; };
+		112D0B6E2539A76100F75C7E /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112D0B6D2539A76100F75C7E /* ProfileViewController.swift */; };
+		112D0B702539A76900F75C7E /* CartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112D0B6F2539A76900F75C7E /* CartViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		112D0B6025392F8800F75C7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		112D0B6325392F8800F75C7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		112D0B6525392F8800F75C7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		112D0B6B2539A75300F75C7E /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		112D0B6D2539A76100F75C7E /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		112D0B6F2539A76900F75C7E /* CartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				112D0B6025392F8800F75C7E /* Assets.xcassets */,
 				112D0B6225392F8800F75C7E /* LaunchScreen.storyboard */,
 				112D0B6525392F8800F75C7E /* Info.plist */,
+				112D0B6B2539A75300F75C7E /* HomeViewController.swift */,
+				112D0B6D2539A76100F75C7E /* ProfileViewController.swift */,
+				112D0B6F2539A76900F75C7E /* CartViewController.swift */,
 			);
 			path = "mynovelisk-ios";
 			sourceTree = "<group>";
@@ -141,7 +150,10 @@
 			files = (
 				112D0B5C25392F8400F75C7E /* ViewController.swift in Sources */,
 				112D0B5825392F8400F75C7E /* AppDelegate.swift in Sources */,
+				112D0B6E2539A76100F75C7E /* ProfileViewController.swift in Sources */,
 				112D0B5A25392F8400F75C7E /* SceneDelegate.swift in Sources */,
+				112D0B702539A76900F75C7E /* CartViewController.swift in Sources */,
+				112D0B6C2539A75300F75C7E /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
