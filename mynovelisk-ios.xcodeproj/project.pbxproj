@@ -16,6 +16,8 @@
 		112D0B6C2539A75300F75C7E /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112D0B6B2539A75300F75C7E /* HomeViewController.swift */; };
 		112D0B6E2539A76100F75C7E /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112D0B6D2539A76100F75C7E /* ProfileViewController.swift */; };
 		112D0B702539A76900F75C7E /* CartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112D0B6F2539A76900F75C7E /* CartViewController.swift */; };
+		112D0B722539AC7300F75C7E /* Novels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112D0B712539AC7300F75C7E /* Novels.swift */; };
+		112D0B742539AF1200F75C7E /* NovelsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112D0B732539AF1200F75C7E /* NovelsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		112D0B6B2539A75300F75C7E /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		112D0B6D2539A76100F75C7E /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		112D0B6F2539A76900F75C7E /* CartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartViewController.swift; sourceTree = "<group>"; };
+		112D0B712539AC7300F75C7E /* Novels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Novels.swift; sourceTree = "<group>"; };
+		112D0B732539AF1200F75C7E /* NovelsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NovelsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +76,8 @@
 				112D0B6B2539A75300F75C7E /* HomeViewController.swift */,
 				112D0B6D2539A76100F75C7E /* ProfileViewController.swift */,
 				112D0B6F2539A76900F75C7E /* CartViewController.swift */,
+				112D0B712539AC7300F75C7E /* Novels.swift */,
+				112D0B732539AF1200F75C7E /* NovelsViewController.swift */,
 			);
 			path = "mynovelisk-ios";
 			sourceTree = "<group>";
@@ -149,7 +155,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				112D0B5C25392F8400F75C7E /* ViewController.swift in Sources */,
+				112D0B722539AC7300F75C7E /* Novels.swift in Sources */,
 				112D0B5825392F8400F75C7E /* AppDelegate.swift in Sources */,
+				112D0B742539AF1200F75C7E /* NovelsViewController.swift in Sources */,
 				112D0B6E2539A76100F75C7E /* ProfileViewController.swift in Sources */,
 				112D0B5A25392F8400F75C7E /* SceneDelegate.swift in Sources */,
 				112D0B702539A76900F75C7E /* CartViewController.swift in Sources */,
